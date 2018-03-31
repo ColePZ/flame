@@ -125,5 +125,4 @@ var args = message.content.substring(PREFIX.length).split(" ");
 });
 
 
-client.login(process.env.BOT_TOKEN)
-bot.login(TOKEN)
+client.login(process.env.NDI5MzA3OTE2NTM3OTU0MzE1.DaFMoA.9gID782_71DPGcrEW0kp-zh9uXk)
